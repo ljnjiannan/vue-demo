@@ -1,0 +1,4 @@
+platform:ios,’8.0’     //平台ios,Deployment Target 8.0
+target “TestFramework" do        //关联TestFramework.xcodeproj
+pod 'SwiftWebViewBridge', '~> 0.3.0'
+end
